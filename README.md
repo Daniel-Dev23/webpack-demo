@@ -2,8 +2,6 @@
 
 <img src="https://res.cloudinary.com/daniel-dev23/image/upload/v1664316605/Webpack%20Demo/webpack_vigseg.png" alt="Webpack" width="100">
 
-<br>
-
 Este repositorio contiene una landing page que expone proyectos para trabajar con Webpack.
 
 Dichos proyectos son: __[webpack-js-skeleton](https://github.com/Daniel-Dev23/webpack-js-skeleton)__ y __[webpack-ts-skeleton](https://github.com/Daniel-Dev23/webpack-ts-skeleton)__.
