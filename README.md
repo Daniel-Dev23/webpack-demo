@@ -1,6 +1,6 @@
 # __Webpack Demo__
 
-<img src="src/img/webpack.png" width="100">
+<img src="https://res.cloudinary.com/daniel-dev23/image/upload/v1664316605/Webpack%20Demo/webpack_vigseg.png" alt="Webpack" width="100">
 
 <br>
 
